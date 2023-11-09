@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Engine Calculator</string>
+    <string-array name="units_array">
+        <item>mm</item>
+        <item>polegadas</item>
+    </string-array>
+</resources>
+
